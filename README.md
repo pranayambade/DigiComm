@@ -4,7 +4,7 @@ DigiComm is an E-commerce platform designed for college students to share their 
 
 ## Live Demonstration
 
-The DigiComm platform can be [viewed online here](https://digicomm.netlify.app/).
+The DigiComm platform can be [viewed online here](https://digistoreecomm.netlify.app/).
 
 Here are screenshots that show the E-commerce demo application in use.
 
